@@ -1,0 +1,17 @@
+body {
+    background: #a388bf;
+}
+
+h1 {
+    color: #e2caae;
+}
+
+.friend {
+    background-color: #3a1467;
+    color: #ffffff;
+}
+
+.friend h3 {
+    text-transform: uppercase;
+    font-family: "Unica One", sans serif;
+}
