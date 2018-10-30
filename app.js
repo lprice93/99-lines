@@ -1,7 +1,7 @@
 let friends = ["Halle", "Jasmine", "Kimani", "Haily", "Jalon"];
 
 for (let x = 0; x < friends.length; x++) {
-    for (let i = 99; i >= 0; i--) {
+    for (let i = 99; i > 0; i--) {
         if (i > 1) {
             console.log(i + " lines of code in the file, " + i + " lines of code; " + friends[x] + " strikes one out, clears it all out, " + (i - 1) + " lines of code in the file ");
         } else if (i = 1) {
